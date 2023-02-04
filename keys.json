@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "uga-hacks-8",
+  "private_key_id": "2064d67b6b99917450f8af3f03276ee0a5478a55",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6nfJArR5zK86V\n9bT2jbHIRevsm+pNBQYkmVowY5MxwkXQd1zraRn41s2v8TVgyBPAOGGNfSnoq/Wa\nYKJDzAIdUjqlb0ReghjB3xPAaDf9W2/iYuw1rb/wxYugJ5OAjsI2mF+krPVu4G98\nc4U2QoZVzHzh6uwasKyfPJPu4zrzoAvjp9FJBJeTEzGaEv1Kbn4hhbe8CCCOjvz1\nubMxZMapwSbbEkETFeKIDiv3BZU3Ro9Vhgd3YBpFZ6kHohmc2Hyk0xeZ7fokme3H\nVblnEDTJhQIYicP7jx/sE9YqILOrNh9H8/8MZoXRGSD78unXZSVRs9uDCZv1hpE6\nzyDmv0YJAgMBAAECggEAAYNxaQPeaNm0mbO97Xf1tqWWhbs3+bruM1LJD/ZmxbMJ\nJOkq6D/YdZOsZF5k6+2Dd34dkGuw8NGgMsnQ1xLq+3jkv924pLmSYNQh0WAnABeD\nP0dFGiRYF6hKexiHEjZWLeIreGbssKMCVHSNYoTEmSKI6r4gfxDqvXncy0WtfzdL\n/rFhMBIQ/eVcI2Ba3vZpeHZW9PoF+Kn9BU3ejnTezOWqlxqXK54mTCSDJWwDACTv\nfYTyqnp6QdaBquNqhvJ7DZ0tMv1DfcgotSglCx+XnKp7TQipqWwjiLD995GlYerN\nyNWErLN4tnscjcwMFbbM17uAPdmotfmNjw2t9sHvgQKBgQD3sGqilxUxRu0F+0Dt\nLLnS1p6rgOLAexjdNwKZJHoeChHfxZ0PqgtNTfF6dQfzduR8WopeWNiwzL5W80gb\ni7TBWrycFDqWb+KbhdlHYdoSJqxhkpdbY99LaindoE4cK3/fxobrjp7MtRAbVKyb\nH004DOIBotnaDl+j/9nr4cZhoQKBgQDA4O+xfRJKI4VH7Jx65AL4awYnSs8vGQUW\nNjgDA8zpwmFBaiRiMrNxrz7+H2qF+y0G9fSWXsLIckXbKUNlNQTnzAYyOw/gbs25\nLZGKsk0kMpNI2rxeb84yB808bCV1wKVK/7cBkH6NiuaRIwLuvmkO+BIqJKEobl7I\nVRfgwo1baQKBgFFHgRatwXSUM7+cvaeW37vCVfstpjtHqdcd8CpVAAXPhCIMdQfo\n4yCRDUcEFIHeaAgupe1j9me+KE/cMbNoWv6AShhlwvwO5yvl9nEoOSlvq22xbx28\nXlAfHHHv4vH3jFTgjvHJsW63k/uEA8g7s1lLUPb8e8TEprnogZiYVENBAoGAIx3R\nBiObXNwyu/GcW9N/pvL1X9oC9rQ7dNvSPtpGSJkXU+2bSjWo7h3V/jaCEnq0q/vD\n2EzQceY8SbatipOonPtMdYDDVz1VP03IndPwr5J1tmH8wcThacJ533JhL5svfQQp\nsaM5J1QOvoX9VrJcNll8FSguH0pY/2hevJEvY2ECgYEA3tUu22rVfzAHw9uoBw/U\nJ8OGqdG9oCU4nSvbP4LiQmEitW/CvMBwMA0jVx79mYAmHqKVnVfrOWQNRVV6yDK9\ntWLz8FbcbrTWX82wgTj9yiSCkPLbr67D3GSyt385LypXCFNIaSqO6oNAiUpT1Baz\nnRMz6P02+WeGMq76Jn50Y4I=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ccorriganhacks8@uga-hacks-8.iam.gserviceaccount.com",
+  "client_id": "102777292714802264990",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ccorriganhacks8%40uga-hacks-8.iam.gserviceaccount.com"
+}
